@@ -6,8 +6,9 @@ const messages = [
   "Wait… you sure? 😭",
   "Try again 😌",
   "No button is acting funny today…",
-  "Okay okay, I’ll stop (I won’t).",
-  "Just tap YES 😄"
+  "Okay okay, I’ll stop.",
+  "NOT!",
+  "Dont Die!"
 ];
 
 let tries = 0;
